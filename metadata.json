@@ -1,0 +1,6 @@
+{
+  "name": "voidclient",
+  "description": "The official landing page for voidclient: a secure, stable, undetected executor and external.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
