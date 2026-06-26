@@ -188,7 +188,7 @@ export default function Pricing() {
 
         <div className="mt-12 text-center text-[10px] font-mono text-zinc-650 flex items-center justify-center gap-2">
           <ShieldCheck className="w-3.5 h-3.5 text-zinc-600" />
-          <span>All licenses are instantly dispatched to Discord tickets or emailed directly on payment clearance.</span>
+          <span>All licenses are secure and saved.</span>
         </div>
       </div>
     </section>
