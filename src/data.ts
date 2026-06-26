@@ -9,14 +9,14 @@ export const FEATURES_DATA: FeatureItem[] = [
   },
   {
     id: "aimbot",
-    title: "Target Assist",
+    title: "Aimbot",
     description: "Highly configurable soft Aimbot with adjustable field-of-view, smooth factors, and vector tracking to look completely natural.",
     badge: "Combat"
   },
   {
     id: "protections",
     title: "Full Protections",
-    description: "Our software comes equipped with an elite level Hyperion bypass, making our client 99.9% safe. Experience supreme gameplay enhancements without the risk of detection.",
+    description: "Our software comes equipped with an Hyperion bypass, making our client 99.9% safe. Experience supreme gameplay enhancements without the risk of detection.",
     badge: "Security"
   },
   {
