@@ -162,9 +162,7 @@ export default function Pricing() {
 
       <div className="w-full max-w-[1320px] mx-auto px-4">
         <div className="text-center mb-16 flex flex-col items-center">
-          <span className="font-sans text-[10px] font-semibold tracking-[0.25em] text-zinc-500 uppercase">
-            Secure Access Licensing
-          </span>
+         
           <h2 className="font-display text-3xl sm:text-4xl font-extrabold text-white tracking-tight mt-3 mb-4">
             Choose your plan
           </h2>
